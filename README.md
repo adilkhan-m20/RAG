@@ -42,7 +42,5 @@ This assistant is designed to give **accurate, citation-backed answers** from up
   - Query documents via terminal.  
   - Exit anytime with `exit` or `quit`.  
 
----
 
-## 📂 Project Structure  
 
